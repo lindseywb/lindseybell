@@ -1,0 +1,21 @@
+{
+  "title": "Lindsey Bell",
+  "url": "https://lindseybell.com/",
+  "language": "en",
+  "description": "My blog.",
+  "feed": {
+    "subtitle": "Musings on web development and life.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://lindseybell.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://lindseybell.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Lindsey Bell",
+    "email": "lindsey@lindseybell.com",
+    "url": "https://lindseybell.com/about-me/"
+  }
+}
